@@ -299,4 +299,39 @@ text-align: center;
    justify-content: space-around;
    padding-top: 24px;
  }
- 
+ /* catalog */
+ .arrivals{
+  min-height: 148px;
+   background: #F8F3F4;
+   border: 3px solid black;
+   
+   }
+   .arrtxt{
+     padding-left: 230px;
+     padding-top: 50px;
+     display: inline-block;
+     
+   }
+   ul {
+    /*   display: flex; */
+      /* border: 1px solid;  */
+      list-style: none;
+       padding: 0;
+      margin: 0; 
+    }
+    li {
+      display: inline-block;
+      /* border: 1px solid; */
+    }
+    a{
+      text-decoration: none;
+      color: #636363;
+    }
+    .navi{
+      padding-left: 769px;
+      padding-top: 50px;
+    }
+    .lfttxt{
+      display: inline-block;
+      padding-left: 387px;
+    }
